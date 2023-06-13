@@ -18,7 +18,7 @@ Pod::Spec.new do |spec|
 
   spec.swift_version = '5.0'
 
-  spec.source = { :git => "https://github.com/cognoai/ZaincashChatbot-IOS.git", :tag => "1.0.3" }
+  spec.source = { :git => "https://github.com/cognoai/ZaincashChatbot-IOS.git", :tag => "1.0.4" }
 
 
   spec.source_files  = 'ZaincashChatbot-IOS/**/*.swift'
